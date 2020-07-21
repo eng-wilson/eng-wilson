@@ -1,16 +1,47 @@
-### Hi there 👋
+# I’m Wilson Carvalho, glad to meet you.
 
-<!--
-**eng-wilson/eng-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/eng-wilson)](https://github.com/eng-wilson)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/dev-wilson/)&nbsp;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
+I’m a programmer in constant evolution, always learning new things. I love what I do!
+
+I’m currently working at [Ayo](http://www.ayoapp.com.br/) as React Native Developer.<br/>
+Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
+My focus is on Front-End, both for Web and Mobile with React.js and React Native.<br/>
+Always reading about sales, entrepreneurship and how to communicate better.<br/>
+
+
+![eng-wilson's github stats](https://github-readme-stats.vercel.app/api?username=eng-wilson&show_icons=true&hide=["contribs","prs","issues"])
+
+
+
+## Skills:
+
+✍🏼 &nbsp; Designing / Prototyping: <br/>
+
+![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=figma&logo=figma)&nbsp;
+
+💻  &nbsp; Programming: <br/>
+
+![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsb-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
+
+## Curiosities:
+
+Rock n Roll is my favorite kind of music.<br/>
+Bodybuilder.<br/>
+Fan of video games and anime.<br/>
+Nonfiction books reader.<br/>
