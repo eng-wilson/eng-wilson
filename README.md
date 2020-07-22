@@ -1,7 +1,6 @@
 # I’m Wilson Carvalho, glad to meet you.
 
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/eng-wilson)](https://github.com/eng-wilson)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/dev-wilson/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-wilson)](https://www.linkedin.com/in/dev-wilson/)&nbsp;
 
 
 
