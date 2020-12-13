@@ -7,7 +7,7 @@
 I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
 I’m a programmer in constant evolution, always learning new things. I love what I do!
 
-I’m currently working at [Ayo](http://www.ayoapp.com.br/) as React Native Developer.<br/>
+I’m currently working as a React Native Developer Freelancer.<br/>
 Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
 My focus is on Front-End, both for Web and Mobile with React.js and React Native.<br/>
 Always reading about sales, entrepreneurship and how to communicate better.<br/>
