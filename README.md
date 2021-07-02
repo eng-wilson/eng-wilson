@@ -41,6 +41,6 @@ Always reading about sales, entrepreneurship and how to communicate better.<br/>
 ## Curiosities:
 
 Rock n Roll is my favorite kind of music.<br/>
-Bodybuilder.<br/>
+I practice calisthenics.<br/>
 Fan of video games and anime.<br/>
 Nonfiction books reader.<br/>
