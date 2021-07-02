@@ -12,7 +12,7 @@ Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
 My focus is on Front-End, both for Web and Mobile with React.js and React Native.<br/>
 Always reading about sales, entrepreneurship and how to communicate better.<br/>
 
-My favorite repositories:
+My favorite repositories:<br/>
 [Barbershop Mobile](https://github.com/eng-wilson/barbershop-mobile).<br/>
 [Barbershop Web](https://github.com/eng-wilson/barbershop-web).<br/>
 
