@@ -13,6 +13,7 @@ My focus is on Front-End, both for Web and Mobile with React.js and React Native
 Always reading about sales, entrepreneurship and how to communicate better.<br/>
 
 My favorite repositories:<br/>
+[SpaceXPlorer](https://github.com/eng-wilson/SpaceXplorer).<br/>
 [Barbershop Mobile](https://github.com/eng-wilson/barbershop-mobile).<br/>
 [Barbershop Web](https://github.com/eng-wilson/barbershop-web).<br/>
 
