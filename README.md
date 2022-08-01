@@ -20,6 +20,8 @@ My favorite repositories:<br/>
 [My Radio's Front-end](https://github.com/eng-wilson/radio-frontend).<br/>
 [My Radio's Back-end](https://github.com/eng-wilson/radio-backend).<br/>
 [Code Challenges](https://github.com/eng-wilson/hacker-rank).<br/>
+[Competitive Programming](https://github.com/eng-wilson/maratona).<br/>
+[Algorithms](https://github.com/eng-wilson/Algoritmos).<br/>
 
 ![eng-wilson's github stats](https://github-readme-stats.vercel.app/api?username=eng-wilson&show_icons=true&hide=["contribs","prs","issues"])
 
