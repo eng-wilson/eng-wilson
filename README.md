@@ -12,13 +12,18 @@ Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
 My focus is on Front-End, both for Web and Mobile with React.js and React Native.<br/>
 Always reading about sales, entrepreneurship and how to communicate better.<br/>
 
-My favorite repositories:<br/>
+## My favorite repositories<br/>
+
+### Mobile Development:
 [SpaceXPlorer](https://github.com/eng-wilson/SpaceXplorer).<br/>
 [Barbershop Mobile](https://github.com/eng-wilson/barbershop-mobile).<br/>
-[Barbershop Web](https://github.com/eng-wilson/barbershop-web).<br/>
 [Mazeflix](https://github.com/eng-wilson/mazeflix).<br/>
+### Front-end Development:
+[Barbershop Web](https://github.com/eng-wilson/barbershop-web).<br/>
 [My Radio's Front-end](https://github.com/eng-wilson/radio-frontend).<br/>
+### Back-end Development:
 [My Radio's Back-end](https://github.com/eng-wilson/radio-backend).<br/>
+### Algorithms and Data Structures:
 [Code Challenges](https://github.com/eng-wilson/hacker-rank).<br/>
 [Competitive Programming](https://github.com/eng-wilson/maratona).<br/>
 [Algorithms](https://github.com/eng-wilson/Algoritmos).<br/>
