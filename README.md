@@ -19,6 +19,7 @@ My favorite repositories:<br/>
 [Mazeflix](https://github.com/eng-wilson/mazeflix).<br/>
 [My Radio's Front-end](https://github.com/eng-wilson/radio-frontend).<br/>
 [My Radio's Back-end](https://github.com/eng-wilson/radio-backend).<br/>
+[Code Challenges](https://github.com/eng-wilson/hacker-rank).<br/>
 
 ![eng-wilson's github stats](https://github-readme-stats.vercel.app/api?username=eng-wilson&show_icons=true&hide=["contribs","prs","issues"])
 
