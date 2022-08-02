@@ -2,15 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-wilson)](https://www.linkedin.com/in/dev-wilson/)&nbsp;
 
+## Front-end and Mobile developer at @FuerzaStudio
 
+I’m passionate about building the best products for my users. Always in constant evolution, learning from programming to business skills. I love what I do!
 
-I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
-I’m a programmer in constant evolution, always learning new things. I love what I do!
-
-I’m currently working as a React Native Developer.<br/>
-Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
-My focus is on Front-End, both for Web and Mobile with React.js and React Native.<br/>
-Always reading about sales, entrepreneurship and how to communicate better.<br/>
+- Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
+- My focus is on Front-End and Mobile with React.js and React Native.<br/>
+- Learning NodeJS to become a Fullstack Developer.<br/>
+- Currently reading Clean Code.<br/>
 
 ## Skills:
 
@@ -19,7 +18,7 @@ Always reading about sales, entrepreneurship and how to communicate better.<br/>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;<br/>
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
 ![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;<br/>
+![NodeJS](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;<br/>
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;<br/>
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;<br/>
@@ -31,16 +30,16 @@ Always reading about sales, entrepreneurship and how to communicate better.<br/>
 
 ## My favorite repositories<br/>
 
-### Mobile Development:
+### 📱&nbsp;Mobile Development:
 [SpaceXPlorer](https://github.com/eng-wilson/SpaceXplorer).<br/>
 [Barbershop Mobile](https://github.com/eng-wilson/barbershop-mobile).<br/>
 [Mazeflix](https://github.com/eng-wilson/mazeflix).<br/>
-### Front-end Development:
+### 💻&nbsp;Front-end Development:
 [Barbershop Web](https://github.com/eng-wilson/barbershop-web).<br/>
 [My Radio's Front-end](https://github.com/eng-wilson/radio-frontend).<br/>
-### Back-end Development:
+### ⚙️&nbsp;Back-end Development:
 [My Radio's Back-end](https://github.com/eng-wilson/radio-backend).<br/>
-### Algorithms and Data Structures:
+### 📘&nbsp;Algorithms and Data Structures:
 [Code Challenges](https://github.com/eng-wilson/hacker-rank).<br/>
 [Competitive Programming](https://github.com/eng-wilson/maratona).<br/>
 [Algorithms](https://github.com/eng-wilson/Algoritmos).<br/>
@@ -50,7 +49,7 @@ Always reading about sales, entrepreneurship and how to communicate better.<br/>
 
 ## Curiosities:
 
-Rock n Roll is my favorite kind of music.<br/>
-I practice calisthenics.<br/>
-Fan of video games and anime.<br/>
-Nonfiction books reader.<br/>
+- Metalcore and Blues Rock are my favorite kind of music.<br/>
+- Going to the gym is essential in my routine.<br/>
+- My favorite hobbies are playing guitar, watching anime and playing video games.<br/>
+- I love fashion.
