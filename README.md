@@ -7,9 +7,8 @@
 I’m passionate about building the best products for my users. Always in constant evolution, learning from programming to business skills. I love what I do!
 
 - Finishing my BSC in Computer Science at [UFS](http://www.ufs.br/).<br/>
-- My focus is on Front-End and Mobile with React.js and React Native.<br/>
-- Learning NodeJS to become a Fullstack Developer.<br/>
-- Currently reading Clean Code.<br/>
+- My focus is on full stack development with React and Node.<br/>
+- Constantly studying about System Design, Data Structure and Algorithms.<br/>
 
 ## Skills:
 
