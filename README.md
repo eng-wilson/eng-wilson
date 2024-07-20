@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-wilson)](https://www.linkedin.com/in/dev-wilson/)&nbsp;
 
-## Front-end and Mobile developer at @FuerzaStudio
+## Front-end and Mobile developer at @StylarStudio
 
 I’m passionate about building the best products for my users. Always in constant evolution, learning from programming to business skills. I love what I do!
 
