@@ -39,8 +39,7 @@ I’m passionate about building the best products for my users. Always in consta
 ### ⚙️&nbsp;Back-end Development:
 [My Radio's Back-end](https://github.com/eng-wilson/radio-backend).<br/>
 ### 📘&nbsp;Algorithms and Data Structures:
-[Code Challenges](https://github.com/eng-wilson/hacker-rank).<br/>
-[Competitive Programming](https://github.com/eng-wilson/maratona).<br/>
+[LeetCode]([https://github.com/eng-wilson/hacker-rank](https://github.com/eng-wilson/leetcode)).<br/>
 [Algorithms](https://github.com/eng-wilson/algorithms).<br/>
 
 ![eng-wilson's github stats](https://github-readme-stats.vercel.app/api?username=eng-wilson&show_icons=true&hide=["contribs","prs","issues"])
